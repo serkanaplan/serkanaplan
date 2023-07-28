@@ -2,9 +2,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd0a2F2MmdjcHFsaWJrYXljZzdvYnFiNnBtNG14bWU1NDBwbnJpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif" width="300" alt="Resim Açıklaması" />
 </div>
 
-# ❓About Me:
-#### "Hello! I am Serkan Kaplan, a computer programming graduate. I am a junior software developer involved in mobile, web, and artificial intelligence domains."
+  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+# ❓About Me:
+
+#### Hello! I am Serkan Kaplan, a computer programming graduate. I am a junior software developer involved in mobile, web, and artificial intelligence domains.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/serkanaplan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serkanaplan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serkanaplan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@serkanaplan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/serkanaplan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/serkanaplan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/serkanaplan) 
 
@@ -14,12 +17,13 @@
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=serkanaplan&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=serkanaplan&theme=react&hide_border=true)<br/><hr/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanaplan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><hr/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=serkanaplan&theme=react&hide_border=true)<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanaplan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   </div>
 
----
 [![](https://visitcount.itsvg.in/api?id=serkanaplan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
