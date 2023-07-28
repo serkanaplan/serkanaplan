@@ -1,5 +1,5 @@
 # 💫 About Me:
-""Hello! I am Serkan Kaplan, a computer programming graduate. I am a junior software developer involved in mobile, web, and artificial intelligence domains."
+"- ⚡Hello! I am Serkan Kaplan, a computer programming graduate. I am a junior software developer involved in mobile, web, and artificial intelligence domains.
 
 
 ## 🌐 Socials:
