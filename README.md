@@ -17,7 +17,7 @@
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=serkanaplan&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=serkanaplan&theme=react&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=serkanaplan&theme=react&hide_border=true)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanaplan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
