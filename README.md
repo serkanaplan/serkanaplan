@@ -12,12 +12,5 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=serkanaplan&theme=react&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=serkanaplan&theme=react&hide_border=true)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanaplan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  </div>
 
 [![](https://visitcount.itsvg.in/api?id=serkanaplan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
