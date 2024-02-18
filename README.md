@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://camo.githubusercontent.com/f4bd9587da1719b1e916916886276aa1dc328991095ded008631854a9e85d67b/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d45786f2b322673697a653d3234266475726174696f6e3d343030302670617573653d3130303026636f6c6f723d3435463730302663656e7465723d74727565267643656e7465723d747275652677696474683d353331266c696e65733d437962657253656375726974792b416e616c7973742b2532362532362b50656e7465737465723b416c776179732b6c6561726e696e672b6e65772b7468696e6773" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Exo+2&amp;size=24&amp;duration=4000&amp;pause=1000&amp;color=45F700&amp;center=true&amp;vCenter=true&amp;width=531&amp;lines=CyberSecurity+Analyst+%26%26+Pentester;Always+learning+new+things" style="max-width: 100%;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd0a2F2MmdjcHFsaWJrYXljZzdvYnFiNnBtNG14bWU1NDBwbnJpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif" width="300" alt="Resim Açıklaması" />
 </div>
 
