@@ -1,5 +1,5 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=3000&pause=1000&color=FF0035&center=true&vCenter=true&random=true&width=435&lines=I+am+a+Flutter+Developer;I+am+a+.NET+Developer;I+am+a+React+Developer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=3000&pause=1000&color=FF0035&center=true&vCenter=true&random=true&width=435&lines=I+am+a+Flutter+Developer;I+am+a+.NET+Developer;I+am+a+React+Developer)](https://git.io/typing-svg)
 </div>
 
   
