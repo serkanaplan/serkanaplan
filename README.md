@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=3000&pause=1000&color=FF0035&center=true&vCenter=true&random=true&width=435&lines=I+am+a+Flutter+Developer;I+am+a+.NET+Developer;I+am+a+React+Developer)](https://git.io/typing-svg)
 
 # ❓About Me:
-
 #### I am a Full-Stack Mobile and Web Developer focused on React, Flutter, Nodejs and .Net. On the backend, I contribute to application development using ASP.Net Core and EF Core, and on the Nodejs side, I adopt Express, Nestjs Framework technologies. On the frontend, I create user-friendly and interactive interfaces with React, Flutter. I improve this process by leveraging technologies such as Getx, Bloc, Webpack, Hooks, Context API, React Bootstrap, Material UI. I prioritize delivering efficient, modular and sustainable solutions. I am proactive in continuous learning, staying up to date with the latest technologies to add value to projects. I believe my skills in React, Nodejs, C#, Flutter and SQL will be valuable to your team.
 
 ## 🌐 Socials:
