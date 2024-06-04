@@ -26,7 +26,7 @@
   <img width="2" />
   <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" height="40" alt="materialui logo"  />
   <img width="2" />
-  <img height=45 src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=000000"  /> 
+  <img height=45 src="https://www.svgrepo.com/show/373776/light-prisma.svg"  /> 
   <img width="2" />
   <img height=45 src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000"  />
   <img height=45 src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"  />
