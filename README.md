@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
-<h3 align="center">I am a Full-Stack Developer who adopts ASP.NET Core, Nodejs, Nestjs Nextjs, React & Flutter technologies</h3>
+<h4 align="center">🌱 I am a Full-Stack Developer who adopts ASP.NET Core, Nodejs, Nestjs Nextjs, React & Flutter technologies</h4>
 
+<h1 align="center">⚡My Fellow Travelers</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="2" />
