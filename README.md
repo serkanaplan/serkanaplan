@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
 <h4 align="center">🌱 I am a Full-Stack Developer who adopts ASP.NET Core, Nodejs, Nestjs Nextjs, React & Flutter technologies</h4>
 <h1 align="center">⚡My Fellow Travelers</h1>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -31,7 +31,7 @@
   <img height=45 src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000"  />
   <img height=45 src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"  />
 </div>
-<div align="left">
+<div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
@@ -56,3 +56,4 @@
    <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
