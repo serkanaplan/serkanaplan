@@ -56,4 +56,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="2" />
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
